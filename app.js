@@ -18,6 +18,13 @@ app.use(express.static('public'));
 // api routes
 app.use('/games', gameAPIRouter);
 
+app.use((req, res) => {
+  res.status(404).json({
+    success: false,
+    message: '404 - Not Found'
+  });
+});
+
 const PORT = process.env.PORT;
 app.listen(PORT, () => {
   console.log('API is live');

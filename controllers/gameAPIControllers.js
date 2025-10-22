@@ -20,16 +20,19 @@ async function getAllGames(req, res, next) {
 async function queryGames(req, res, next) {
   const { category, title, limit } = req.query;
   let games = await getGameArray();
+  const queries = {};
 
   const categories = [...new Set(games.map((g) => g.category))];
 
   if (category || title || limit) {
     if (category) {
       games = games.filter((eachGame) => eachGame.category.toLowerCase() === category.toLowerCase());
+      queries.category = category;
     }
 
     if (title) {
       games = games.filter((eachGame) => eachGame.title.toLowerCase().includes(title.toLowerCase()));
+      queries.title = title;
     }
 
     if (limit && !isNaN(limit)) {
@@ -39,8 +42,9 @@ async function queryGames(req, res, next) {
       } else {
         games = games.slice(0, fixedLimit);
       }
+      queries.limit = fixedLimit;
     }
-    res.json({ apiName: 'games', total: games.length, categories, data: games });
+    res.json({ apiName: 'games', total: games.length, categories, queries, data: games });
   } else {
     next();
   }

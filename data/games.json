@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "title": "Player Unknowns Battle Ground: PUBG",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/pubg/pubg-icon-low-res.webp",
@@ -11,11 +11,11 @@
     "category": "FPS",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en",
     "description": "PUBG MOBILE's Spooky Soiree version arrives on September 4!V4.0 introduces tons of ghostly content,as well as new game modes and tons of collaborations!Get ready for the most spooktacular update of the year\n\nClassic Mode\n1. Ghost Gameplay:Unlock shield, boost, flying, and healing abilities, plus you can engage in battles even after you get knocked out!\n2. Mortar:A new weapon that deals high explosive damage.Supports both close aiming and ranged target selection, for more tactical versatility.",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "Krafton"
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "Call of Duty: Mobile",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/call-of-duty/cod-icon-low-res.webp",
@@ -26,11 +26,11 @@
     "category": "FPS",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en",
     "description": "CALL OF DUTY® like never before, bringing fast-paced FPS action to your fingertips.\n\nJump into intense Multiplayer battles with classic modes like Team Deathmatch, Domination, and Kill Confirmed on legendary maps such as Shipment, Raid, and Standoff. Prefer Battle Royale? Squad up and conquer with dynamic modes like Tank Isolated and Training Ground, set in an iconic battlefield.",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "Activision"
   },
   {
-    "id": "3",
+    "id": 3,
     "title": "Free Fire",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/free-fire/ff-icon-low-res.webp",
@@ -41,11 +41,11 @@
     "category": "Battle Royale",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en",
     "description": "Light up your game! The Free Fire Light Fest Event is here!\n\nPeak has been transformed into a dark castle, captured by evil forces. Only the Lotus Lamp can restore balance and light. Will you and your squad rise to the challenge?",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "Garena"
   },
   {
-    "id": "4",
+    "id": 4,
     "title": "Clash of Clans",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/coc/coc-icon-low-res.webp",
@@ -56,11 +56,11 @@
     "category": "Strategy",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en",
     "description": "Join millions of players worldwide as you start building your Village, join a Clan, and battle in epic real-time strategy Clan Wars games!\n\nMustachioed Barbarians, fire wielding Wizards, and other unique Troops await your command! Enter the world of Clash!",
-    "ratings": "4.5",
+    "ratings": 4.5,
     "developer": "Supercell"
   },
   {
-    "id": "5",
+    "id": 5,
     "title": "Clash Royale",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/clash-royale/cr-icon-low-res.webp",
@@ -71,11 +71,11 @@
     "category": "Strategy",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en",
     "description": "Enter the Arena! Build your Battle Deck and outsmart the enemy in fast real-time PvP tower defense card games. From the creators of CLASH OF CLANS comes a real-time multiplayer card battle game starring your favourite Clash® characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY, TOWER DEFENSE AND DECK BUILDING\nChoose unique Cards for your Battle Deck and head to the Arena for multiplayer PvP strategy games!",
-    "ratings": "4.2",
+    "ratings": 4.2,
     "developer": "Supercell"
   },
   {
-    "id": "6",
+    "id": 6,
     "title": "Among Us",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/among-us/au-icon-low-res.webp",
@@ -86,11 +86,11 @@
     "category": "Party",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en",
     "description": "Play online or over local WiFi with 4-15 players as you attempt to prep your spaceship for departure, but beware as one will be an impostor bent on killing everyone!\n\nCrewmates can win by completing all tasks or discovering and voting the impostor off the ship.\n\nThe Impostor can use sabotage to cause chaos, making for easier kills and better alibis.",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "Innersloth"
   },
   {
-    "id": "7",
+    "id": 7,
     "title": "Genshin Impact",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/genshin-impact/gi-icon-low-res.webp",
@@ -101,11 +101,11 @@
     "category": "RPG",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en",
     "description": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy.\n\nYou and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber, you now awake to a world very different from when you first arrived.\n\nThus begins your journey across Teyvat to seek answers from The Seven — the gods of each element.",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "COGNOSPHERE PTE. LTD."
   },
   {
-    "id": "8",
+    "id": 8,
     "title": "Mobile Legends: Bang Bang",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/mobile-legends/ml-icon-low-res.webp",
@@ -116,11 +116,11 @@
     "category": "MOBA",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en",
     "description": "Join your friends in Mobile Legends: Bang Bang, the brand new 5v5 MOBA showdown, and fight against real players! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, pushing, and teamfighting, all the fun of PC MOBA and action games in the palm of your hand! Feed your eSports spirit!\n\nMobile Legends: Bang Bang, the fascinating MOBA game on mobile. Smash and outplay your enemies and achieve the final victory with your teammates!",
-    "ratings": "3.9",
+    "ratings": 3.9,
     "developer": "Moonton"
   },
   {
-    "id": "9",
+    "id": 9,
     "title": "CookieRun: Kingdom",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/cookie-kingdom/ck-icon-low-res.webp",
@@ -131,11 +131,11 @@
     "category": "Arcade",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=en",
     "description": "Meet our Cookies, all voiced by an amazing cast of voice actors. Witness their epic skills, fall in love with their voices, and dress them into new chic costumes. Join the Cookies in CookieRun: Kingdom",
-    "ratings": "4.7",
+    "ratings": 4.7,
     "developer": "Devsisters Corporation"
   },
   {
-    "id": "10",
+    "id": 10,
     "title": "Subway Surfers",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/subway-surfers/ss-icon-low-res.webp",
@@ -146,11 +146,11 @@
     "category": "Arcade",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en",
     "description": "DASH as fast as you can!\nDODGE the oncoming trains!\n\nHelp Jake, Tricky & Fresh escape from the grumpy Guard and his dog.\n\n★ Grind trains with your cool crew!",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "SYBO Games"
   },
   {
-    "id": "11",
+    "id": 11,
     "title": "Candy Crush Saga",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/candy-crush/cc-icon-low-res.webp",
@@ -161,11 +161,11 @@
     "category": "Puzzle",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en",
     "description": "Master the legendary match 3 puzzle game from King and have a blast! With over a trillion matching levels played, Candy Crush Saga is the popular match 3 puzzle game!\n\nMatch, pop, and blast candies in this tasty puzzle adventure to progress to the next level and get a sugar blast! Master match 3 puzzles with quick thinking and smart matching moves to be rewarded with sugar bonuses and tasty candy combos.",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "King"
   },
   {
-    "id": "12",
+    "id": 12,
     "title": "Minecraft: Dream it, Build it!",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/minecraft/mc-icon-low-res.webp",
@@ -176,11 +176,11 @@
     "category": "Sandbox",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en",
     "description": "Dive into an open world of building, crafting and survival in the ultimate sandbox builder. Gather resources, survive the night, and build an epic adventure one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a block city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination!",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "Mojang"
   },
   {
-    "id": "13",
+    "id": 13,
     "title": "Roblox",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/roblox/rb-icon-low-res.webp",
@@ -191,11 +191,11 @@
     "category": "Adventure",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
     "description": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!\n \nAlready have an account? Log in with your existing Roblox account and explore the infinite metaverse of Roblox.",
-    "ratings": "4.6",
+    "ratings": 4.6,
     "developer": "Roblox Corporation"
   },
   {
-    "id": "14",
+    "id": 14,
     "title": "Temple Run 2",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/temple-run-2/tr-icon-low-res.webp",
@@ -206,11 +206,11 @@
     "category": "Runner",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en",
     "description": "Temple Run 2: The Ultimate Endless Runner Action Adventure Game\nDash into the world of Temple Run 2, the best endless runner game where arcade action, strategy, and adventure collide! Take on fun challenges with millions of players worldwide as you run, jump, and escape through stunning jungle worlds. Can you survive the endless chase of the Demon Monkey and become the ultimate runner in this top rated free game?",
-    "ratings": "3.9",
+    "ratings": 3.9,
     "developer": "Imangi Studios"
   },
   {
-    "id": "15",
+    "id": 15,
     "title": "Asphalt 9: Legends",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/ashphalt-9-legends/ap-icon-low-res.webp",
@@ -221,11 +221,11 @@
     "category": "Racing",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=en",
     "description": "Ignite your competitive spirit with Asphalt Legends and immerse yourself in this heart-pounding car racing world. Collaborate with fellow drivers to blaze through thrilling online multiplayer races, execute jaw-dropping drifts and stunts, and charge towards victory in the most exquisite cars!\n\nEngage with the Global Racing Community",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "Gameloft SE"
   },
   {
-    "id": "16",
+    "id": 16,
     "title": "8 Ball Pool",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/8-ball-pool/8b-icon-low-res.webp",
@@ -236,11 +236,11 @@
     "category": "Sports",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en",
     "description": "Play with friends! Play with Legends. Play the hit Miniclip 8 Ball Pool game on your mobile and become the best player!\n\nCOMPETE 1-ON-1 OR IN 8 PLAYER TOURNAMENTS\n\nRefine your skills in the practice arena, take on the world in 1-vs-1 matches, or enter tournaments to win trophies and exclusive cues!",
-    "ratings": "4.7",
+    "ratings": 4.7,
     "developer": "Miniclip.com"
   },
   {
-    "id": "17",
+    "id": 17,
     "title": "Zooba: Fun Battle Royale Games",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/zooba/z-icon-low-res.webp",
@@ -251,11 +251,11 @@
     "category": "FPS",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zooba&hl=en",
     "description": "🔥 Dive into Zooba: Epic Brawl Battle Royale - A Free Online Multiplayer Shooting Game!\n\nWelcome to Zooba, the ultimate brawl battle royale game where you become a star by battling against online players in an intense multiplayer shooting experience. Ready, set, frag, and fire your way to the top!",
-    "ratings": "4.2",
+    "ratings": 4.2,
     "developer": "Wildlife Studios"
   },
   {
-    "id": "18",
+    "id": 18,
     "title": "League of Legends: Wild Rift",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/league-of-legends/ll-icon-low-res.webp",
@@ -266,11 +266,11 @@
     "category": "MOBA",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en",
     "description": "The classic League experience redesigned for mobile with shorter matches and touch controls.",
-    "ratings": "4.5",
+    "ratings": 4.5,
     "developer": "Riot Games"
   },
   {
-    "id": "19",
+    "id": 19,
     "title": "Pokemon GO",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/pokemon-go/pg-icon-low-res.webp",
@@ -281,11 +281,11 @@
     "category": "Adventure",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en",
     "description": "Join Trainers across the globe who are discovering Pokémon as they explore the world around them. Pokémon GO is the global gaming sensation that has been downloaded over 1 billion times and named “Best Mobile Game” by the Game Developers Choice Awards and “Best App of the Year” by TechCrunch.\n_______________\n\nUncover the world of Pokémon: Explore and discover Pokémon wherever you are!",
-    "ratings": "3.9",
+    "ratings": 3.9,
     "developer": "Niantic"
   },
   {
-    "id": "20",
+    "id": 20,
     "title": "NEW STATE : NEW ERA OF BR",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/new-state/ns-icon-low-res.webp",
@@ -296,11 +296,11 @@
     "category": "Battle Royale",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.pubg.newstate&hl=en",
     "description": "New Season!\nNew Survival Pass!\n\nIntroducing NEW STATE MOBILE, the new Battle Royale game developed by PUBG STUDIOS, the company behind PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG).\nDive into expansive Battlegrounds, search for strategically placed weapons, vehicles, and consumables, and fight for survival.",
-    "ratings": "3.8",
+    "ratings": 3.8,
     "developer": "Krafton"
   },
   {
-    "id": "21",
+    "id": 21,
     "title": "Farlight 84",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/farlight-84/fr-icon-low-res.webp",
@@ -311,11 +311,11 @@
     "category": "Battle Royale",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.miraclegames.farlight84&hl=en",
     "description": "Hey Lightcatchers! Are you ready for massive 60-player shootouts? Enjoy fast-paced hero shooter action in Farlight 84!\nTeam up with two squadmates and parkour your way through towering cityscapes as you hunt down your enemies. Play as uniquely skilled heroes, tame your Buddy pets, and unlock hundreds of tactical combos to outsmart your opponents. With unlimited respawns, you're free to charge into the fray, break armor, and go all-out without fear! If you've got the guts, you've got the power to forge your own path to victory!",
-    "ratings": "3.7",
+    "ratings": 3.7,
     "developer": "FARLIGHT"
   },
   {
-    "id": "22",
+    "id": 22,
     "title": "Brawl Stars",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/brawl-stars/bs-icon-low-res.webp",
@@ -326,11 +326,11 @@
     "category": "Action",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en",
     "description": "Fast-paced 3v3 & 5v5 MOBA and battle royale made for mobile! Play a variety of online PvP arena multiplayer shooting & melee game modes in under three minutes – with friends or solo.\n\nUnlock and upgrade dozens of Brawlers with powerful super abilities, star powers and gadgets! Collect unique skins to stand out and show off.",
-    "ratings": "4.1",
+    "ratings": 4.1,
     "developer": "Supercell"
   },
   {
-    "id": "23",
+    "id": 23,
     "title": "Shadow Fight 4: Arena",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/shadow-fight-4/sf-icon-low-res.webp",
@@ -341,11 +341,11 @@
     "category": "Fighting",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.nekki.shadowfightarena&hl=en",
     "description": "BECOME THE SHADOW FIGHT HERO IN A NEW MULTIPLAYER FIGHTING GAME!\n\n⚔️Fight against other players in a free online 3D fighting game. Compete in 2 player PVP combats or brawl for fun with friends or play offline against smart bots. Welcome to the ninja realm!⚔️",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "Nekki"
   },
   {
-    "id": "24",
+    "id": 24,
     "title": "Real Racing 3",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/real-racing-3/rr-icon-low-res.webp",
@@ -356,11 +356,11 @@
     "category": "Racing",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.games.r3_row&hl=en",
     "description": "Take on the world-wide motorsports – including Formula 1® - anytime, anywhere! Real cars. Real people. Real motorsports. This is Real Racing 3.\nReal Racing 3 is the award-winning franchise that sets a new standard for mobile car racing games.\n\nBoasting over 500 million downloads, Real Racing 3 features officially licensed tracks with over 40 circuits at 20 real-world locations, a 43 car grid and over 300 meticulously detailed cars from manufacturers like Porsche, Bugatti, Chevrolet, Aston Martin and Audi.",
-    "ratings": "4.1",
+    "ratings": 4.1,
     "developer": "Electronic Arts"
   },
   {
-    "id": "25",
+    "id": 25,
     "title": "EA SPORTS FC™ Mobile Soccer",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/fifa/f-icon-low-res.webp",
@@ -371,11 +371,11 @@
     "category": "Sports",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en",
     "description": "The EA SPORTS FC™ Mobile 26 Update is here! Celebrate the 2025/2026 season of soccer and enjoy one of our biggest updates ever, inspired by fans.\n\nPlay as any soccer or european football team from the Premier League or LALIGA EA SPORTS including Real Madrid & Liverpool in Club Challenge PVP mode. Collect Player Items to build your dream Football Ultimate Team™ with soccer stars Jude Bellingham, Son Heung-Min, Virgil van Dijk, Cole Palmer, Jamal Musiala or legendary ICONs like Ronaldinho, David Beckham, Zinedine Zidane & Zlatan",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "ELECTRONIC ARTS"
   },
   {
-    "id": "26",
+    "id": 26,
     "title": "Hill Climb Racing",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/hill-climb-racing/hc-icon-low-res.webp",
@@ -386,11 +386,11 @@
     "category": "Racing",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en",
     "description": "Play the original classic Hill Climb Racing! Race your way uphill in this physics based driving game, playable offline!\n\nMeet Bill, the young aspiring uphill racer. He is about to embark on a journey through Climb Canyon that takes him to where no ride has ever been before. With little respect to the laws of physics, Bill will not rest until he has conquered the highest hills up on the moon!",
-    "ratings": "4.0",
+    "ratings": 4.0,
     "developer": "Fingersoft"
   },
   {
-    "id": "27",
+    "id": 27,
     "title": "Plants vs Zombies 2",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/plant-vs-zombie/pz-icon-low-res.webp",
@@ -401,11 +401,11 @@
     "category": "Strategy",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=en",
     "description": "Play the hit action-strategy adventure where you meet, greet, and defeat legions of hilarious zombies from the dawn of time, to the end of days. Amass an army of amazing plants, supercharge them with Plant Food, and devise the ultimate plan to protect your brain.\n\nDISCOVER HUNDREDS OF PLANTS AND ZOMBIES\nCollect your favorite lawn legends, like Sunflower and Peashooter, along with hundreds of other horticultural hotshots, including creative bloomers like Lava Guava and Laser Bean. Go toe-to-missing-toe with a massive array of zombies at every turn, like Jetpack.",
-    "ratings": "4.2",
+    "ratings": 4.2,
     "developer": "ELECTRONIC ARTS"
   },
   {
-    "id": "28",
+    "id": 28,
     "title": "Stumble Guys",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/stamble-guy/sg-icon-low-res.webp",
@@ -416,11 +416,11 @@
     "category": "Party",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en",
     "description": "Grab your friends and play Stumble Guys, the fun free-to-play multiplayer party royale game!\n\nCompete in fast-paced knockout games with up to 32 players and race through cool obstacle courses and chaotic elimination full of action. Play now and become the last player standing in Stumble Guys, the ultimate online multiplayer party game experience!",
-    "ratings": "4.5",
+    "ratings": 4.5,
     "developer": "Scopely"
   },
   {
-    "id": "29",
+    "id": 29,
     "title": "Modern Combat 5",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/modern-combat-5/mc-icon-low-res.webp",
@@ -431,11 +431,11 @@
     "category": "FPS",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM&hl=en",
     "description": "Step onto the battlefield and answer the call in the classic title that raised the bar for first person shooter games with its great graphics, high-powered guns, and intense online multiplayer action.\nModern Combat is the original mobile FPS where you can choose from more than 10 classes. Jump online for a bit of instant warfare.\n\nFulfill your duty in the thrilling campaign as you shoot your way through one dire situation after another to save the world.",
-    "ratings": "4.3",
+    "ratings": 4.3,
     "developer": "Gameloft"
   },
   {
-    "id": "30",
+    "id": 30,
     "title": "Jetpack Joyride",
     "icon": {
       "lowRes": "https://kitzo-apis.onrender.com/images/games/jetpack-joyride/jj-icon-low-res.webp",
@@ -446,7 +446,7 @@
     "category": "Arcade",
     "downloadLink": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=en",
     "description": "Bullet-powered jetpacks! Giant mechanical dragons! Birds that shoot money!\n\nFrom the makers of Fruit Ninja comes this insane, high flying endless runner that will keep you on the edge of your seat!\n\nIt's time to join Barry Steakfries and equip cool jetpacks, suit up in stylish costumes and ride crazy.",
-    "ratings": "4.4",
+    "ratings": 4.4,
     "developer": "Halfbrick Studios"
   }
 ]

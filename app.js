@@ -4,6 +4,7 @@ const cors = require('cors');
 const dotenv = require('dotenv');
 
 // Local modules
+const pingAPIRouter = require('./routers/pingAPIRouter');
 const gameAPIRouter = require('./routers/gameAPIRouter');
 
 // Initialize app
@@ -21,13 +22,16 @@ app.set('views', 'views');
 // api routes
 app.get('/', (req, res) => {
   res.render('index');
-})
+});
+
+app.use('/ping', pingAPIRouter);
+
 app.use('/games', gameAPIRouter);
 
 app.use((req, res) => {
   res.status(404).json({
     success: false,
-    message: '404 - Not Found'
+    message: '404 - Not Found',
   });
 });
 
